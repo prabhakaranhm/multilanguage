@@ -1,0 +1,17 @@
+{
+    "Index": {
+      "title": "Allergies",
+      "subtitle": "Woolen woes: Much-needed warmth may cause allergy in some",
+      "About":{
+        "title": "Who we are",
+        "content": "HAPPIEST HEALTH is a knowledge enterprise, founded by Ashok Soota, Executive Chairman of Happiest Minds. HAPPIEST HEALTH provides highly differentiated, credible and trustworthy health & wellness knowledge across formats to readers from around the globe. The leadership comprises editors, writers and other professionals with several years’ experience in respected media houses, and also healthcare professionals, researchers and PhD holders. The writers, along with renowned medical practitioners, provide clarity to complex medical insights in language that is easy to understand. Knowledge available on the digital site is free – because we are your health & wellness champions."
+      }
+    },
+    "Alerts":{
+      "alertMessage": "Something went wrong!"
+    },
+    "Menus":{
+      "home": "Home",
+      "about": "About"
+    }    
+}
